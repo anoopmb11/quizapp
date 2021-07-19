@@ -1,13 +1,11 @@
-body{
-    background: #ccc;
- 
+body {
+    background: #fff;
 }
 
 .container {
     margin: 0 auto;
 }
 
-li{
+li {
     list-style-type: none;
 }
-
